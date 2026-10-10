@@ -1,12 +1,19 @@
-# Code Guardians - Projeto IQS002
+# Contexto de Negócio
 
-## Produto
-SIGA Acadêmico - Sistema Integrado de Gestão Acadêmica
+## Organização e processo
+O software apoiará a gestão e o controle acadêmico de instituições de ensino superior, gerenciando desde matrículas até o lançamento de notas e faltas pelos professores.
 
-## Objetivo
-Demonstrar que a equipe compreendeu o problema empresarial da gestão educacional, delimitou o produto e começou a definir como a qualidade será construída e evidenciada. 
+## Problema atual
+Os processos atuais carecem de rastreabilidade na alteração de avaliações, gerando dúvidas sobre a integridade dos dados, além de permitir furos no teto de matrículas das turmas. 
 
-## Equipe e Papéis
-* Matheus Leandrin - PM (Product Manager)
-* Renan Sepulvida - TcL (Tech Lead)
-* Fellipe Augusto - Team Member
+## Impactos
+Isso resulta em retrabalho administrativo frequente para a secretaria acadêmica, frustração dos alunos com informações incorretas e falhas na garantia contínua da qualidade do ensino.
+
+## Usuários e stakeholders
+Estudantes, Docentes e Secretaria Acadêmica.
+
+## Riscos caso a solução falhe
+Se o sistema falhar, uma nota pode ser alterada indevidamente, ou matrículas podem ser efetivadas acima do limite físico da sala de aula.
+
+## Objetivo da solução
+Fornecer um ambiente confiável, auditável e padronizado para as operações acadêmicas da instituição.
